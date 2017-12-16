@@ -1,5 +1,11 @@
 uniqueId,iconName,resourceName
-1,right,right
-2,left,left
-3,front,front
-4,back,back
+1,turnright,right
+2,turnleft,left
+3,gostraight1,front
+4,gostraight2,front
+5,gostraight3,front
+6,gostraight4,front
+7,gostraight5,front
+8,gostraight6,front
+9,gostraight7,front
+10,gostraight8,front
