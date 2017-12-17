@@ -1,16 +1,6 @@
 uniqueId,stageNamestageDataName,iconUniqueId01,iconUniqueId02,iconUniqueId03
 1,New York,stage1,1,1,1
-2,1-2,test2,4,2,1
-3,1-3,test3,4,2,1
-4,2-1,test4,4,2,1
-5,2-2,test5,4,2,1
-6,2-3,test6,4,2,1
-7,3-1,test7,4,2,1
-8,3-2,test5,4,2,1
-9,3-3,test8,4,2,1
-10,4-1,test9,4,2,1
-11,4-2,test10,4,2,1
-12,4-3,test11,4,2,1
-13,5-1,test12,4,2,1
-14,5-2,test13,4,2,1
-15,5-3,test14,4,2,1
+2,London,test2,4,2,1
+3,Paris,test3,4,2,1
+4,Sydney,test4,4,2,1
+5,Toronto,test5,4,2,1
