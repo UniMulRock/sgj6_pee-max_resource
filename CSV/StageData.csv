@@ -1,6 +1,6 @@
-uniqueId,stageNamestageDataName,iconUniqueId01,iconUniqueId02,iconUniqueId03
+uniqueId,stageName,stageDataName,iconUniqueId01,iconUniqueId02,iconUniqueId03
 1,New York,stage1,1,1,1
-2,London,test2,4,2,1
-3,Paris,test3,4,2,1
-4,Sydney,test4,4,2,1
-5,Toronto,test5,4,2,1
+2,London,stage2,4,2,1
+3,Paris,stage1,4,2,1
+4,Sydney,stage1,4,2,1
+5,Toronto,stage1,4,2,1
